@@ -18,5 +18,5 @@ public class Product {
         private BigDecimal unitprice;
         private String description;
         private String category;
-        private String productSK;
+        private String productSK;   // openfeign connection
 }
